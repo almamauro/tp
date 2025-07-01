@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ForgotPasswordStep1Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPasswordStep2Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPasswordStep3Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdiminRegisterUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminmodifyUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenuAdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserprofileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

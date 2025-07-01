@@ -1,0 +1,24 @@
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\Trabajo_Practico_Grupal_1__Cuatrimestre.LoginForm.resources
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\Trabajo Practico Grupal 1° Cuatrimestre.csproj.GenerateResource.cache
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\Trabajo Practico Grupal 1° Cuatrimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\Trabajo Practico Grupal 1° Cuatrimestre.AssemblyInfoInputs.cache
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\Trabajo Practico Grupal 1° Cuatrimestre.AssemblyInfo.cs
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\Trabajo Practico Grupal 1° Cuatrimestre.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\bin\Debug\net8.0-windows\Trabajo Practico Grupal 1° Cuatrimestre.exe
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\bin\Debug\net8.0-windows\Trabajo Practico Grupal 1° Cuatrimestre.deps.json
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\bin\Debug\net8.0-windows\Trabajo Practico Grupal 1° Cuatrimestre.runtimeconfig.json
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\bin\Debug\net8.0-windows\Trabajo Practico Grupal 1° Cuatrimestre.dll
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\bin\Debug\net8.0-windows\Trabajo Practico Grupal 1° Cuatrimestre.pdb
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\Trabajo_Practico_Grupal_1__Cuatrimestre.AdiminRegisterUserForm.resources
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\Trabajo_Practico_Grupal_1__Cuatrimestre.AdminModifyUserForm.resources
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\Trabajo_Practico_Grupal_1__Cuatrimestre.forgotPasswordStep1Form.resources
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\Trabajo_Practico_Grupal_1__Cuatrimestre.ForgotPasswordStep2Form.resources
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\Trabajo_Practico_Grupal_1__Cuatrimestre.ForgotPasswordStep3Form.resources
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\Trabajo_Practico_Grupal_1__Cuatrimestre.UserprofileForm.resources
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\Trabajo Practico Grupal 1° Cuatrimestre.dll
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\refint\Trabajo Practico Grupal 1° Cuatrimestre.dll
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\Trabajo Practico Grupal 1° Cuatrimestre.pdb
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\Trabajo Practico Grupal 1° Cuatrimestre.genruntimeconfig.cache
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\ref\Trabajo Practico Grupal 1° Cuatrimestre.dll
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\Trabajo_Practico_Grupal_1__Cuatrimestre.MainMenuForm.resources
+C:\Users\Nano\source\repos\ARIEL\Trabajo Practico Grupal 1° Cuatrimestre\Trabajo Practico Grupal 1° Cuatrimestre\obj\Debug\net8.0-windows\Trabajo_Practico_Grupal_1__Cuatrimestre.MainMenuAdminForm.resources
